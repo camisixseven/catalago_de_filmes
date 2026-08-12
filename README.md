@@ -1,4 +1,4 @@
-## Requisitos funcionais e não funcionais
+## Requisitos funcionais
 
 -   **RF01 - autenticação de usuário:** O sistema deve permitir que o usuário faça login informando seu usuário e senha para acessar o sistema.
     
